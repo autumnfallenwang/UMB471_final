@@ -156,6 +156,7 @@ if __name__ == "__main__":
     # csv orig_folder and saved_folder
     orig_folder = '../../../IMDB_top250/datasets_top250/'
     saved_folder = '../datasets_star/'
+    os.makedirs(saved_folder, exist_ok=True)
 
     create_dim_movie(orig_folder + 'movies.csv', saved_folder)
     create_dim_genre(orig_folder + 'genres.csv', saved_folder)

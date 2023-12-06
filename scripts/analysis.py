@@ -145,8 +145,7 @@ analysis_tasks = [
 
 def run_analysis_engine(task, output_folder):
     # Ensure output directory exists
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
+    os.makedirs(output_folder, exist_ok=True)
 
     print(f"Processing task {task['index']}: {task['problem_description']}")
 

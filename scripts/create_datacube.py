@@ -1,3 +1,4 @@
+import os
 import sys
 import argparse
 import warnings
@@ -90,6 +91,7 @@ def main():
     result_df = execute_sql_query(query)
 
     # Save to CSV
+    os.makedirs(os.path.dirname(args.output), exist_ok=True)
     result_df.to_csv(args.output, index=False)
     print(f'Data cube saved to {args.output}')
 
