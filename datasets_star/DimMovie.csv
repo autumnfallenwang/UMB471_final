@@ -1,0 +1,251 @@
+movieId,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes
+tt0111161,movie,The Shawshank Redemption,The Shawshank Redemption,False,1994,NULL,142
+tt0068646,movie,The Godfather,The Godfather,False,1972,NULL,175
+tt0108052,movie,Schindler's List,Schindler's List,False,1993,NULL,195
+tt0071562,movie,The Godfather Part II,The Godfather Part II,False,1974,NULL,202
+tt0050083,movie,12 Angry Men,12 Angry Men,False,1957,NULL,96
+tt0468569,movie,The Dark Knight,The Dark Knight,False,2008,NULL,152
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,False,2003,NULL,201
+tt0110912,movie,Pulp Fiction,Pulp Fiction,False,1994,NULL,154
+tt0167261,movie,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,False,2002,NULL,179
+tt0137523,movie,Fight Club,Fight Club,False,1999,NULL,139
+tt0060196,movie,"The Good, the Bad and the Ugly","Il buono, il brutto, il cattivo",False,1966,NULL,161
+tt0120737,movie,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False,2001,NULL,178
+tt1375666,movie,Inception,Inception,False,2010,NULL,148
+tt15097216,movie,Jai Bhim,Jai Bhim,False,2021,NULL,164
+tt0109830,movie,Forrest Gump,Forrest Gump,False,1994,NULL,142
+tt0080684,movie,Star Wars: Episode V - The Empire Strikes Back,The Empire Strikes Back,False,1980,NULL,124
+tt0133093,movie,The Matrix,The Matrix,False,1999,NULL,136
+tt0073486,movie,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,False,1975,NULL,133
+tt0099685,movie,Goodfellas,GoodFellas,False,1990,NULL,145
+tt0118799,movie,Life Is Beautiful,La vita è bella,False,1997,NULL,116
+tt0317248,movie,City of God,Cidade de Deus,False,2002,NULL,130
+tt0038650,movie,It's a Wonderful Life,It's a Wonderful Life,False,1946,NULL,130
+tt0102926,movie,The Silence of the Lambs,The Silence of the Lambs,False,1991,NULL,118
+tt0103064,movie,Terminator 2: Judgment Day,Terminator 2: Judgment Day,False,1991,NULL,137
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,False,1998,NULL,169
+tt0056058,movie,Harakiri,Seppuku,False,1962,NULL,133
+tt0114369,movie,Se7en,Se7en,False,1995,NULL,127
+tt0076759,movie,Star Wars: Episode IV - A New Hope,Star Wars,False,1977,NULL,121
+tt0120689,movie,The Green Mile,The Green Mile,False,1999,NULL,189
+tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,False,2001,NULL,125
+tt0816692,movie,Interstellar,Interstellar,False,2014,NULL,169
+tt0047478,movie,Seven Samurai,Shichinin no samurai,False,1954,NULL,207
+tt0120586,movie,American History X,American History X,False,1998,NULL,119
+tt0088763,movie,Back to the Future,Back to the Future,False,1985,NULL,116
+tt0034583,movie,Casablanca,Casablanca,False,1942,NULL,102
+tt0253474,movie,The Pianist,The Pianist,False,2002,NULL,150
+tt0095327,movie,Grave of the Fireflies,Hotaru no haka,False,1988,NULL,89
+tt0064116,movie,Once Upon a Time in the West,C'era una volta il West,False,1968,NULL,165
+tt2582802,movie,Whiplash,Whiplash,False,2014,NULL,106
+tt0172495,movie,Gladiator,Gladiator,False,2000,NULL,155
+tt0054215,movie,Psycho,Psycho,False,1960,NULL,109
+tt0114814,movie,The Usual Suspects,The Usual Suspects,False,1995,NULL,106
+tt0407887,movie,The Departed,The Departed,False,2006,NULL,151
+tt0110357,movie,The Lion King,The Lion King,False,1994,NULL,88
+tt1675434,movie,The Intouchables,Intouchables,False,2011,NULL,112
+tt0078788,movie,Apocalypse Now,Apocalypse Now,False,1979,NULL,147
+tt0078748,movie,Alien,Alien,False,1979,NULL,117
+tt0110413,movie,Léon: The Professional,Léon,False,1994,NULL,110
+tt0021749,movie,City Lights,City Lights,False,1931,NULL,87
+tt0027977,movie,Modern Times,Modern Times,False,1936,NULL,87
+tt0047396,movie,Rear Window,Rear Window,False,1954,NULL,112
+tt6751668,movie,Parasite,Gisaengchung,False,2019,NULL,132
+tt0095765,movie,Cinema Paradiso,Nuovo Cinema Paradiso,False,1988,NULL,155
+tt0482571,movie,The Prestige,The Prestige,False,2006,NULL,130
+tt0112573,movie,Braveheart,Braveheart,False,1995,NULL,178
+tt0082096,movie,Das Boot,Das Boot,False,1981,NULL,149
+tt0081505,movie,The Shining,The Shining,False,1980,NULL,146
+tt0082971,movie,Raiders of the Lost Ark,Raiders of the Lost Ark,False,1981,NULL,115
+tt0086879,movie,Amadeus,Amadeus,False,1984,NULL,160
+tt0090605,movie,Aliens,Aliens,False,1986,NULL,137
+tt0057565,movie,High and Low,Tengoku to jigoku,False,1963,NULL,143
+tt0910970,movie,WALL·E,WALL·E,False,2008,NULL,98
+tt8267604,movie,Capernaum,Capharnaüm,False,2018,NULL,126
+tt7286456,movie,Joker,Joker,False,2019,NULL,122
+tt5311514,movie,Your Name.,Kimi no na wa.,False,2016,NULL,106
+tt4633694,movie,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,False,2018,NULL,117
+tt4154796,movie,Avengers: Endgame,Avengers: Endgame,False,2019,NULL,181
+tt4154756,movie,Avengers: Infinity War,Avengers: Infinity War,False,2018,NULL,149
+tt0032553,movie,The Great Dictator,The Great Dictator,False,1940,NULL,125
+tt2380307,movie,Coco,Coco,False,2017,NULL,105
+tt1853728,movie,Django Unchained,Django Unchained,False,2012,NULL,165
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,False,2012,NULL,164
+tt0043014,movie,Sunset Blvd.,Sunset Blvd.,False,1950,NULL,110
+tt1187043,movie,3 Idiots,3 Idiots,False,2009,NULL,170
+tt0364569,movie,Oldboy,Oldeuboi,False,2003,NULL,120
+tt0050825,movie,Paths of Glory,Paths of Glory,False,1957,NULL,88
+tt0057012,movie,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False,1964,NULL,95
+tt0405094,movie,The Lives of Others,Das Leben der Anderen,False,2006,NULL,137
+tt0209144,movie,Memento,Memento,False,2000,NULL,113
+tt0051201,movie,Witness for the Prosecution,Witness for the Prosecution,False,1957,NULL,116
+tt0091251,movie,Come and See,Idi i smotri,False,1985,NULL,142
+tt0114709,movie,Toy Story,Toy Story,False,1995,NULL,81
+tt0093058,movie,Full Metal Jacket,Full Metal Jacket,False,1987,NULL,116
+tt8503618,movie,Hamilton,Hamilton,False,2020,NULL,160
+tt0180093,movie,Requiem for a Dream,Requiem for a Dream,False,2000,NULL,102
+tt5074352,movie,Dangal,Dangal,False,2016,NULL,161
+tt0338013,movie,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,False,2004,NULL,108
+tt0105236,movie,Reservoir Dogs,Reservoir Dogs,False,1992,NULL,99
+tt0361748,movie,Inglourious Basterds,Inglourious Basterds,False,2009,NULL,153
+tt2106476,movie,The Hunt,Jagten,False,2012,NULL,115
+tt0119698,movie,Princess Mononoke,Mononoke-hime,False,1997,NULL,134
+tt0435761,movie,Toy Story 3,Toy Story 3,False,2010,NULL,103
+tt0119217,movie,Good Will Hunting,Good Will Hunting,False,1997,NULL,126
+tt1832382,movie,A Separation,Jodaeiye Nader az Simin,False,2011,NULL,123
+tt1745960,movie,Top Gun: Maverick,Top Gun: Maverick,False,2022,NULL,130
+tt1255953,movie,Incendies,Incendies,False,2010,NULL,131
+tt0169547,movie,American Beauty,American Beauty,False,1999,NULL,122
+tt1049413,movie,Up,Up,False,2009,NULL,96
+tt0986264,movie,Like Stars on Earth,Taare Zameen Par,False,2007,NULL,165
+tt0113277,movie,Heat,Heat,False,1995,NULL,170
+tt0211915,movie,Amélie,Le fabuleux destin d'Amélie Poulain,False,2001,NULL,122
+tt0012349,movie,The Kid,The Kid,False,1921,NULL,68
+tt0056592,movie,To Kill a Mockingbird,To Kill a Mockingbird,False,1962,NULL,129
+tt0045152,movie,Singin' in the Rain,Singin' in the Rain,False,1952,NULL,103
+tt0053125,movie,North by Northwest,North by Northwest,False,1959,NULL,136
+tt0044741,movie,Ikiru,Ikiru,False,1952,NULL,143
+tt0066921,movie,A Clockwork Orange,A Clockwork Orange,False,1971,NULL,136
+tt0052357,movie,Vertigo,Vertigo,False,1958,NULL,128
+tt0062622,movie,2001: A Space Odyssey,2001: A Space Odyssey,False,1968,NULL,149
+tt0040522,movie,Bicycle Thieves,Ladri di biciclette,False,1948,NULL,89
+tt0036775,movie,Double Indemnity,Double Indemnity,False,1944,NULL,107
+tt0053604,movie,The Apartment,The Apartment,False,1960,NULL,125
+tt0086190,movie,Star Wars: Episode VI - Return of the Jedi,Star Wars: Episode VI - Return of the Jedi,False,1983,NULL,131
+tt0086250,movie,Scarface,Scarface,False,1983,NULL,170
+tt0033467,movie,Citizen Kane,Citizen Kane,False,1941,NULL,119
+tt0055031,movie,Judgment at Nuremberg,Judgment at Nuremberg,False,1961,NULL,179
+tt0022100,movie,M,M - Eine Stadt sucht einen Mörder,False,1931,NULL,117
+tt0087843,movie,Once Upon a Time in America,Once Upon a Time in America,False,1984,NULL,229
+tt0056172,movie,Lawrence of Arabia,Lawrence of Arabia,False,1962,NULL,218
+tt0017136,movie,Metropolis,Metropolis,False,1927,NULL,153
+tt0070735,movie,The Sting,The Sting,False,1973,NULL,129
+tt0434409,movie,V for Vendetta,V for Vendetta,False,2005,NULL,132
+tt0372784,movie,Batman Begins,Batman Begins,False,2005,NULL,140
+tt0457430,movie,Pan's Labyrinth,El laberinto del fauno,False,2006,NULL,118
+tt0347149,movie,Howl's Moving Castle,Hauru no ugoku shiro,False,2004,NULL,119
+tt0053291,movie,Some Like It Hot,Some Like It Hot,False,1959,NULL,121
+tt0268978,movie,A Beautiful Mind,A Beautiful Mind,False,2001,NULL,135
+tt0266697,movie,Kill Bill: Vol. 1,Kill Bill: Vol. 1,False,2003,NULL,111
+tt0266543,movie,Finding Nemo,Finding Nemo,False,2003,NULL,100
+tt0469494,movie,There Will Be Blood,There Will Be Blood,False,2007,NULL,158
+tt0055630,movie,Yojimbo,Yôjinbô,False,1961,NULL,110
+tt0208092,movie,Snatch,Snatch,False,2000,NULL,104
+tt0048473,movie,Pather Panchali,Pather Panchali,False,1955,NULL,125
+tt0363163,movie,Downfall,Der Untergang,False,2004,NULL,156
+tt0476735,movie,My Father and My Son,Babam ve Oglum,False,2005,NULL,112
+tt1291584,movie,Warrior,Warrior,False,2011,NULL,140
+tt6966692,movie,Green Book,Green Book,False,2018,NULL,130
+tt0019254,movie,The Passion of Joan of Arc,La passion de Jeanne d'Arc,False,1928,NULL,110
+tt4729430,movie,Klaus,Klaus,False,2019,NULL,96
+tt0031381,movie,Gone with the Wind,Gone with the Wind,False,1939,NULL,238
+tt0035446,movie,To Be or Not to Be,To Be or Not to Be,False,1942,NULL,99
+tt0040897,movie,The Treasure of the Sierra Madre,The Treasure of the Sierra Madre,False,1948,NULL,126
+tt0042192,movie,All About Eve,All About Eve,False,1950,NULL,138
+tt1305806,movie,The Secret in Their Eyes,El secreto de sus ojos,False,2009,NULL,129
+tt0042876,movie,Rashomon,Rashômon,False,1950,NULL,88
+tt0477348,movie,No Country for Old Men,No Country for Old Men,False,2007,NULL,122
+tt1130884,movie,Shutter Island,Shutter Island,False,2010,NULL,138
+tt10872600,movie,Spider-Man: No Way Home,Spider-Man: No Way Home,False,2021,NULL,148
+tt10366206,movie,John Wick: Chapter 4,John Wick: Chapter 4,False,2023,NULL,169
+tt10272386,movie,The Father,The Father,False,2020,NULL,97
+tt0057115,movie,The Great Escape,The Great Escape,False,1963,NULL,172
+tt0046268,movie,The Wages of Fear,Le salaire de la peur,False,1953,NULL,131
+tt0046438,movie,Tokyo Story,Tôkyô monogatari,False,1953,NULL,136
+tt0046912,movie,Dial M for Murder,Dial M for Murder,False,1954,NULL,105
+tt0993846,movie,The Wolf of Wall Street,The Wolf of Wall Street,False,2013,NULL,180
+tt8579674,movie,1917,1917,False,2019,NULL,119
+tt0167404,movie,The Sixth Sense,The Sixth Sense,False,1999,NULL,107
+tt0119488,movie,L.A. Confidential,L.A. Confidential,False,1997,NULL,138
+tt0089881,movie,Ran,Ran,False,1985,NULL,162
+tt0095016,movie,Die Hard,Die Hard,False,1988,NULL,132
+tt0097576,movie,Indiana Jones and the Last Crusade,Indiana Jones and the Last Crusade,False,1989,NULL,127
+tt0084787,movie,The Thing,The Thing,False,1982,NULL,109
+tt0105695,movie,Unforgiven,Unforgiven,False,1992,NULL,130
+tt0107290,movie,Jurassic Park,Jurassic Park,False,1993,NULL,127
+tt0080678,movie,The Elephant Man,The Elephant Man,False,1980,NULL,124
+tt0075314,movie,Taxi Driver,Taxi Driver,False,1976,NULL,114
+tt0112641,movie,Casino,Casino,False,1995,NULL,178
+tt0071853,movie,Monty Python and the Holy Grail,Monty Python and the Holy Grail,False,1975,NULL,91
+tt0071411,movie,Dersu Uzala,Dersu Uzala,False,1975,NULL,142
+tt0118849,movie,Children of Heaven,Bacheha-Ye aseman,False,1997,NULL,89
+tt0071315,movie,Chinatown,Chinatown,False,1974,NULL,130
+tt0015324,movie,Sherlock Jr.,Sherlock Jr.,False,1924,NULL,45
+tt0059578,movie,For a Few Dollars More,Per qualche dollaro in più,False,1965,NULL,132
+tt0120382,movie,The Truman Show,The Truman Show,False,1998,NULL,103
+tt0325980,movie,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,False,2003,NULL,143
+tt1895587,movie,Spotlight,Spotlight,False,2015,NULL,129
+tt2267998,movie,Gone Girl,Gone Girl,False,2014,NULL,149
+tt2119532,movie,Hacksaw Ridge,Hacksaw Ridge,False,2016,NULL,139
+tt2096673,movie,Inside Out,Inside Out,False,2015,NULL,95
+tt2024544,movie,12 Years a Slave,12 Years a Slave,False,2013,NULL,134
+tt1979320,movie,Rush,Rush,False,2013,NULL,123
+tt1950186,movie,Ford v Ferrari,Ford v Ferrari,False,2019,NULL,152
+tt0036868,movie,The Best Years of Our Lives,The Best Years of Our Lives,False,1946,NULL,170
+tt0060827,movie,Persona,Persona,False,1966,NULL,85
+tt0032976,movie,Rebecca,Rebecca,False,1940,NULL,130
+tt0083658,movie,Blade Runner,Blade Runner,False,1982,NULL,117
+tt0129167,movie,The Iron Giant,The Iron Giant,False,1999,NULL,86
+tt1454029,movie,The Help,The Help,False,2011,NULL,146
+tt1392214,movie,Prisoners,Prisoners,False,2013,NULL,153
+tt1392190,movie,Mad Max: Fury Road,Mad Max: Fury Road,False,2015,NULL,120
+tt2278388,movie,The Grand Budapest Hotel,The Grand Budapest Hotel,False,2014,NULL,99
+tt3011894,movie,Wild Tales,Relatos salvajes,False,2014,NULL,122
+tt0032551,movie,The Grapes of Wrath,The Grapes of Wrath,False,1940,NULL,129
+tt5027774,movie,"Three Billboards Outside Ebbing, Missouri","Three Billboards Outside Ebbing, Missouri",False,2017,NULL,115
+tt0015864,movie,The Gold Rush,The Gold Rush,False,1925,NULL,95
+tt0198781,movie,"Monsters, Inc.","Monsters, Inc.",False,2001,NULL,92
+tt0017925,movie,The General,The General,False,1926,NULL,67
+tt0088247,movie,The Terminator,The Terminator,False,1984,NULL,107
+tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,False,1988,NULL,86
+tt0025316,movie,It Happened One Night,It Happened One Night,False,1934,NULL,105
+tt0097165,movie,Dead Poets Society,Dead Poets Society,False,1989,NULL,128
+tt0245712,movie,Amores Perros,Amores perros,False,2000,NULL,154
+tt0059742,movie,The Sound of Music,The Sound of Music,False,1965,NULL,172
+tt0031679,movie,Mr. Smith Goes to Washington,Mr. Smith Goes to Washington,False,1939,NULL,129
+tt0032138,movie,The Wizard of Oz,The Wizard of Oz,False,1939,NULL,102
+tt4016934,movie,The Handmaiden,Ah-ga-ssi,False,2016,NULL,145
+tt3315342,movie,Logan,Logan,False,2017,NULL,137
+tt3170832,movie,Room,Room,False,2015,NULL,118
+tt0041959,movie,The Third Man,The Third Man,False,1949,NULL,104
+tt0107207,movie,In the Name of the Father,In the Name of the Father,False,1993,NULL,133
+tt0081398,movie,Raging Bull,Raging Bull,False,1980,NULL,129
+tt0405159,movie,Million Dollar Baby,Million Dollar Baby,False,2004,NULL,132
+tt0072684,movie,Barry Lyndon,Barry Lyndon,False,1975,NULL,185
+tt0070047,movie,The Exorcist,The Exorcist,False,1973,NULL,122
+tt0116282,movie,Fargo,Fargo,False,1996,NULL,98
+tt0117951,movie,Trainspotting,Trainspotting,False,1996,NULL,93
+tt0050212,movie,The Bridge on the River Kwai,The Bridge on the River Kwai,False,1957,NULL,161
+tt0118715,movie,The Big Lebowski,The Big Lebowski,False,1998,NULL,117
+tt0050976,movie,The Seventh Seal,Det sjunde inseglet,False,1957,NULL,96
+tt0050986,movie,Wild Strawberries,Smultronstället,False,1957,NULL,91
+tt0047296,movie,On the Waterfront,On the Waterfront,False,1954,NULL,108
+tt0395169,movie,Hotel Rwanda,Hotel Rwanda,False,2004,NULL,121
+tt0382932,movie,Ratatouille,Ratatouille,False,2007,NULL,111
+tt0381681,movie,Before Sunset,Before Sunset,False,2004,NULL,80
+tt0053198,movie,The 400 Blows,Les quatre cents coups,False,1959,NULL,99
+tt0092005,movie,Stand by Me,Stand by Me,False,1986,NULL,89
+tt0052618,movie,Ben-Hur,Ben-Hur,False,1959,NULL,212
+tt0353969,movie,Memories of Murder,Salinui chueok,False,2003,NULL,131
+tt0073195,movie,Jaws,Jaws,False,1975,NULL,124
+tt0758758,movie,Into the Wild,Into the Wild,False,2007,NULL,148
+tt0091763,movie,Platoon,Platoon,False,1986,NULL,120
+tt1201607,movie,Harry Potter and the Deathly Hallows: Part 2,Harry Potter and the Deathly Hallows: Part 2,False,2011,NULL,130
+tt0892769,movie,How to Train Your Dragon,How to Train Your Dragon,False,2010,NULL,98
+tt0113247,movie,La haine,La haine,False,1995,NULL,98
+tt0978762,movie,Mary and Max,Mary and Max.,False,2009,NULL,92
+tt0120735,movie,"Lock, Stock and Two Smoking Barrels","Lock, Stock and Two Smoking Barrels",False,1998,NULL,107
+tt0075148,movie,Rocky,Rocky,False,1976,NULL,120
+tt0112471,movie,Before Sunrise,Before Sunrise,False,1995,NULL,101
+tt1028532,movie,Hachi: A Dog's Tale,Hachi: A Dog's Tale,False,2009,NULL,93
+tt0074958,movie,Network,Network,False,1976,NULL,121
+tt0264464,movie,Catch Me If You Can,Catch Me If You Can,False,2002,NULL,141
+tt0058946,movie,The Battle of Algiers,La battaglia di Algeri,False,1966,NULL,121
+tt0077416,movie,The Deer Hunter,The Deer Hunter,False,1978,NULL,183
+tt1205489,movie,Gran Torino,Gran Torino,False,2008,NULL,116
+tt0061512,movie,Cool Hand Luke,Cool Hand Luke,False,1967,NULL,127
+tt0107048,movie,Groundhog Day,Groundhog Day,False,1993,NULL,101
+tt0317705,movie,The Incredibles,The Incredibles,False,2004,NULL,115
+tt0079470,movie,Life of Brian,Life of Brian,False,1979,NULL,94
+tt0099348,movie,Dances with Wolves,Dances with Wolves,False,1990,NULL,181
+tt0103639,movie,Aladdin,Aladdin,False,1992,NULL,90
